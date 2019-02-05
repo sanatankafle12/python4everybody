@@ -18,3 +18,7 @@ c=height/3
 d=1+2*5
 print(a,b,c,d)
 print(type(a),type(b),type(c),type(d))
+#ex_05
+no=raw_input('Enter a no: ')
+for i in range(1,int(no)):
+    print(i)
