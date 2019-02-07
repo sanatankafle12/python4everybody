@@ -2,7 +2,7 @@ total=0
 count=0
 z=[]
 while True:
-    inp=raw_input('Enter a no: ')
+    inp=input('Enter a no: ')
     if inp=='done':
         break
     try:

@@ -1,2 +1,7 @@
-a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
-print([x for x in a if x % 2 == 0])
+str = 'X-DSPAM - Confidence : 0.8475'
+z=str.find(':')
+print(float(str[z+1:]))
+a=[]
+for i in range(z):
+    a.append(i)
+print(a)   
