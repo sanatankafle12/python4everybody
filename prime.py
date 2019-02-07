@@ -20,3 +20,5 @@ def prime_or_not_prime_sqrt(num):
 
 for num in range(1,21):
     print(num,prime_or_not_prime_sqrt(num))
+for num in range(1,21):
+    print(num,prime_or_not_prime(num))
