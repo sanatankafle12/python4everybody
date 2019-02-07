@@ -1,4 +1,3 @@
-import time
 
 counts={}
 line=input('Enter a text: ')
