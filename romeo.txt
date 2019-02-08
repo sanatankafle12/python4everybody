@@ -1,7 +1,4 @@
-python shout.py
-Enter a file name: mbox-short.txt
-From Stephan.MARQUARD@UCT.AC.ZA SAT JAN  5 09:14:16 2008
-RETURN-PATH: <POSTMASTER@COLLAB.SAKAIPROJECT.ORG>
-RECEIVED: FROM MURDER (MAIL.UMICH.EDU [141.211.14.90])
-     BY FRANKENSTEIN.MAIL.UMICH.EDU (CYRUS V2.3.8) WITH LMTPA;
-     SAT, 05 JAN 2008 09:14:16 -0500
+But soft what light through yonder window breaks
+It is the east and Juliet is the sun
+Arise fair sun and kill the envious moon
+Who is already sick and pale with grief
