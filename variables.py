@@ -6,7 +6,7 @@ print('Hello '+name)
 print('Welcome to ex_3')
 hours=input('Enter no of hours: ')
 rate=input('Enter rate per hour: ')
-total_pay=hours*rate
+total_pay=int(hours)*int(rate)
 print(total_pay)
 #ex_4
 print('Welcome to ex_4')
