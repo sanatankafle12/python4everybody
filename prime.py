@@ -13,7 +13,7 @@ def prime_or_not_prime(num):
 def prime_or_not_prime_sqrt(num):
     if num==0 or num==1:
         return(False)
-    for i in range(2,int(sqrt(num)):
+    for i in range(2,int(sqrt(num))):
         if num%i==0:
              return(False)
     return(True)

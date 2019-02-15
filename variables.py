@@ -1,6 +1,6 @@
 #ex_2
 print('Welcome to ex_2')
-name=raw_input('Enter your name: ')
+name=input('Enter your name: ')
 print('Hello '+name)
 #ex_3
 print('Welcome to ex_3')
@@ -19,6 +19,6 @@ d=1+2*5
 print(a,b,c,d)
 print(type(a),type(b),type(c),type(d))
 #ex_05
-no=raw_input('Enter a no: ')
+no=input('Enter a no: ')
 for i in range(1,int(no)):
     print(i)
