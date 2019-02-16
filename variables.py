@@ -1,3 +1,4 @@
+
 #ex_2
 print('Welcome to ex_2')
 name=input('Enter your name: ')
@@ -19,6 +20,7 @@ d=1+2*5
 print(a,b,c,d)
 print(type(a),type(b),type(c),type(d))
 #ex_05
+print('Welcome to ex_05')
 no=input('Enter a no: ')
 for i in range(1,int(no)):
     print(i)
