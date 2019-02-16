@@ -1,3 +1,5 @@
+name=input('Enter your name: ')
+print('Welcome ',name, '\nPlease Enter the list of numbers to find out their average, maximum value and minimum value. \nWhen you are done with your list, Please type done. ')
 total=0
 count=0
 z=[]
